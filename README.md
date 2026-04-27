@@ -46,6 +46,3 @@ ml-movie-recommender/
 - Handles movies not in dataset gracefully
 - Modern glassmorphism UI
 - Top 10 recommendations
-
-## 👨‍💻 Built By
-Your Name — built as a learning project to explore ML and Python
